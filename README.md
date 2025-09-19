@@ -9,7 +9,6 @@ How to reach me: [anthonywu@mednet.ucla.edu](mailto:anthonywu@mednet.ucla.edu) o
 ## 
 ### Current Academic Affiliations:
 - Jules Stein Eye Institute, University of California, Los Angeles, Los Angeles, CA, USA
-- Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA
 - Schepens Eye Research Institute of Massachusetts Eye and Ear, Harvard Medical School, Boston, MA, USA
 
 ### Previous Academic Affiliations:
