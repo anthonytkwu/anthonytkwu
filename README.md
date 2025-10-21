@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I recently finished my bachelor's degree at UCLA and will be at the Schepens Eye Research Institute of Massachusetts Eye and Ear and Department of Biomedical Informatics at Harvard Medical School.
+I recently finished my bachelor's degree at UCLA and will be at the Schepens Eye Research Institute of Massachusetts Eye and Ear and continuing research with UCLA at the Jules Stein Eye Institute and Computational Medicine Department with the [Au Lab](https://github.com/UCLA-Au-Lab)
 
 👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/anthonytkwu/)
 
-How to reach me: [anthonywu@mednet.ucla.edu](mailto:anthonywu@mednet.ucla.edu) or [anthony_wu@hms.harvard.edu](mailto:anthony_wu@hms.harvard.edu)
+How to reach me: [anthonywu@mednet.ucla.edu](mailto:anthonywu@mednet.ucla.edu)
 
 ## 
 ### Current Academic Affiliations:
